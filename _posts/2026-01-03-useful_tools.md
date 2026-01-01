@@ -6,6 +6,6 @@ category: Jekyll
 layout: post
 ---
 
-- DNS查询: https://tool.chinaz.com/dns
+- DNS查询: [https://tool.chinaz.com/dns](https://tool.chinaz.com/dns)
 
-- deepseek: https://chat.deepseek.com/
+- deepseek: [https://chat.deepseek.com/](https://chat.deepseek.com/)
