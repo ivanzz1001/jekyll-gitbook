@@ -8,8 +8,6 @@ layout: post
 
 [![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
-<br />
-
 #### 1. C++专题目录
 
 
