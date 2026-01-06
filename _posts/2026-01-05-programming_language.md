@@ -8,11 +8,11 @@ layout: post
 
 [![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
-#### 1. C++专题目录
+#### I. C++专题目录
 
 
 
-#### 2. golang专题目录
+#### II. golang专题目录
 
 
 
