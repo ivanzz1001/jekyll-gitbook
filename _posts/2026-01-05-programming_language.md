@@ -10,11 +10,13 @@ layout: post
 
 #### I. C++专题目录
 
+- C++基础知识: [https://github.com/ivanzz1001/learn-cpp](https://github.com/ivanzz1001/learn-cpp)
 
+- C++新特性: [https://github.com/ivanzz1001/cpp_new_features](https://github.com/ivanzz1001/cpp_new_features)
 
 #### II. golang专题目录
 
-
+- golang基础知识: [https://github.com/ivanzz1001/learn-golang](https://github.com/ivanzz1001/learn-golang)
 
 
 
