@@ -1,7 +1,7 @@
 ---
 title: 计算机基础知识
 author: Zhongyan Liu
-date: 2019-04-26
+date: 2019-04-27
 category: Jekyll
 layout: post
 ---
