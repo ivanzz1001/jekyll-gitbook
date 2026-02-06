@@ -9,4 +9,4 @@ layout: post
 
 计算机基础专题目录:
 
-- Linux基础: https://github.com/ivanzz1001/linux-fundamentals
+- Linux基础: [https://github.com/ivanzz1001/linux-fundamentals](https://github.com/ivanzz1001/linux-fundamentals)
