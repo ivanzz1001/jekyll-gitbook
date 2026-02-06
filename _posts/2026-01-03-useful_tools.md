@@ -9,3 +9,5 @@ layout: post
 - DNS查询: [https://tool.chinaz.com/dns](https://tool.chinaz.com/dns)
 
 - deepseek: [https://chat.deepseek.com/](https://chat.deepseek.com/)
+
+- 实用软件: [https://github.com/ivanzz1001/practical_tools_collection](https://github.com/ivanzz1001/practical_tools_collection)
