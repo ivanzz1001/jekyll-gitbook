@@ -10,7 +10,7 @@ hide_in_sidebar: true
 
 This is a code analysis example:
 
-```
+```markdown
 OpenBlobObject(bucket, path, flag, ret_blob_id, options)
     │
     └─ BlobClient::OpenBlob(bucket, path, openflags, ret_errcode, options)
