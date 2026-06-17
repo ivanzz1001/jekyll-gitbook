@@ -9,7 +9,7 @@ hide_in_sidebar: true
 ---
 
 
-This is a code analysis example:
+The following shows a example of code analysis:
 
 ```markdown
 OpenBlobObject(bucket, path, flag, ret_blob_id, options)
