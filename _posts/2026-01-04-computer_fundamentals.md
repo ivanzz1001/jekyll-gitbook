@@ -10,3 +10,5 @@ layout: post
 计算机基础专题目录:
 
 - Linux基础: [https://github.com/ivanzz1001/linux-fundamentals](https://github.com/ivanzz1001/linux-fundamentals)
+
+- 疑难问题记录: [https://github.com/ivanzz1001/issue-tracking](https://github.com/ivanzz1001/issue-tracking)
