@@ -10,7 +10,7 @@ layout: post
 
 编程语言相关专题:
 
-- C/C++/golang/python编程: [https://github.com/ivanzz1001/programming-language](https://github.com/ivanzz1001/programming-language)
+- `C/C++/golang/python编程`: [https://github.com/ivanzz1001/programming-language](https://github.com/ivanzz1001/programming-language)
 
 
 #### I. C++专题目录
