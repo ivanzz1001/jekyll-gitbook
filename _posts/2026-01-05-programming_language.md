@@ -19,10 +19,5 @@ layout: post
 
 - C++新特性: [https://github.com/ivanzz1001/cpp_new_features](https://github.com/ivanzz1001/cpp_new_features)
 
-#### II. golang专题目录
-
-- golang基础知识: [https://github.com/ivanzz1001/learn-golang](https://github.com/ivanzz1001/learn-golang)
-
-
 
 
