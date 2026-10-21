@@ -8,6 +8,11 @@ layout: post
 
 [![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
+编程语言相关专题:
+
+- [C/C++/golang/python编程](https://github.com/ivanzz1001/programming-language)
+
+
 #### I. C++专题目录
 
 - C++基础知识: [https://github.com/ivanzz1001/learn-cpp](https://github.com/ivanzz1001/learn-cpp)
