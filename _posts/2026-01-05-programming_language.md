@@ -12,11 +12,6 @@ layout: post
 
 - `C/C++/golang/python编程`: [https://github.com/ivanzz1001/programming-language](https://github.com/ivanzz1001/programming-language)
 
-
-#### I. C++专题目录
-
-- C++基础知识: [https://github.com/ivanzz1001/learn-cpp](https://github.com/ivanzz1001/learn-cpp)
-
 - C++新特性: [https://github.com/ivanzz1001/cpp_new_features](https://github.com/ivanzz1001/cpp_new_features)
 
 
